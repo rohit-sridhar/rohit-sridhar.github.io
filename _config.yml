@@ -28,7 +28,7 @@ twitter_username: RohitSridhar8
 github_username:  rohit-sridhar
 
 # Build settings
-theme: slate
+theme: minima
 plugins:
   - jekyll-feed
 
