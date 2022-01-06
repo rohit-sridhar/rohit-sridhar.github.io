@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rohit Sridhar's Website
+title: Rohit Sridhar
 email: rohitsridhar@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This site contains information about Rohit Sridhar's academic projects. In the future, content may be expanded.
