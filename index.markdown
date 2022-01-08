@@ -5,6 +5,13 @@
 layout: home
 ---
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
@@ -30,4 +37,6 @@ layout: home
     <p>Some text..</p>
   </div>
 </div>
+
+</body>
 
