@@ -9,6 +9,6 @@ Welcome to Rohit Sridhar's website. This site hosts information about my academi
 It is still under construction, but will be filled out with more information soon.
 
 <figure>
-<img src='./assets/at_airport.jpeg' alt='Picture of me at the airport' width='200' height='200' />
+<img src='./assets/at_airport.jpeg' alt='Picture of me at the airport' width='800' height='1067' />
 <figcaption>At the airport. I am not smiling because I haven't received my baggage yet</figcaption>
 </figure>
