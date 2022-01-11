@@ -6,7 +6,6 @@ layout: home
 ---
 
 Welcome to Rohit Sridhar's website. This site hosts information about my academic projects and related information.
-It is still under construction, but will be filled out with more information soon.
 
 <!---
 <figure>
