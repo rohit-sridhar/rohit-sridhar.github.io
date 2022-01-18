@@ -5,7 +5,11 @@
 layout: home
 ---
 
-Welcome to Rohit Sridhar's website. This site hosts information about my academic projects and related information.
+Welcome to my site! This site hosts information about my academic projects and research career. 
+
+## News
+<hr style="border:2px solid gray; margin-bottom: 10.0px">
+  * 01/11/2022 - Accepted Internship Offer with the Vision & Learning Lab at SRI International.
 
 <!---
 <figure>
