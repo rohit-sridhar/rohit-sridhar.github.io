@@ -6,6 +6,9 @@ layout: home
 ---
 
 Welcome to my site! This site hosts information about my academic projects and research career. 
+I have done work in Natural Language Processing and in Graph Learning (see publications below).
+Currently, I am a Ph.D student in the Contextual Computing Group led by Prof. Thad Starner at 
+Georgia Tech. I am working on sign language recognition currently.
 
 ## Accepted Papers
 <hr style="border:2px solid gray; margin-bottom: 10.0px">
