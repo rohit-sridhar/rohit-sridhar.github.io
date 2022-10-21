@@ -7,7 +7,7 @@ layout: home
 
 Welcome to my site! This site hosts information about my academic projects and research career. 
 
-## Research Experience
+## Accepted Papers
 <hr style="border:2px solid gray; margin-bottom: 10.0px">
   * [Explaining Stereotypes in Toxic Social Media Posts](https://aclanthology.org/2022.naacl-main.59/)
   * Adversarial Attacks on Dynamic Graphs (Poster Accepted at NeurIPS 2022)
@@ -49,6 +49,12 @@ Welcome to my site! This site hosts information about my academic projects and r
 ## News
 <hr style="border:2px solid gray; margin-bottom: 10.0px">
   * 01/11/2022 - Accepted Internship Offer with the Vision & Learning Lab at SRI International.
+
+## Awards
+<hr style="border:2px solid gray; margin-bottom: 10.0px">
+  * Thank a Teacher (_x4_)
+    * Received 4 Thank a Teacher Awards as a TA for CS 6601
+    * Email Rohit, if further detail is needed.
 
 <!---
 <figure>
